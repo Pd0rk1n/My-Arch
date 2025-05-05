@@ -1,0 +1,68 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "51bfe3cb4d455f0467e6c14df930b1b814d2fb9c852011d27faa1629c81a48e4",
+    "telemetry.devDeviceId": "8e56aff9-e831-49ce-8abc-a3634f60eece",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/pd0rk1n/Documents/GitHub/My-Arch/arcolinux-nemesis/ulauncher"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/pd0rk1n/Documents/GitHub/My-Arch/arcolinux-nemesis": "__default__profile__",
+            "file:///home/pd0rk1n/Documents/GitHub/My-Arch/arcolinux-nemesis/ulauncher": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1746240230373": "__default__profile__"
+        }
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1f1f1f",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1f1f1f",
+            "editorBackground": "#1f1f1f",
+            "titleBarBackground": "#181818",
+            "titleBarBorder": "#2b2b2b",
+            "activityBarBackground": "#181818",
+            "activityBarBorder": "#2b2b2b",
+            "sideBarBackground": "#181818",
+            "sideBarBorder": "#2b2b2b",
+            "statusBarBackground": "#181818",
+            "statusBarBorder": "#2b2b2b",
+            "statusBarNoFolderBackground": "#1f1f1f"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 300,
+            "auxiliarySideBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/pd0rk1n/Documents/GitHub/My-Arch/arcolinux-nemesis/ulauncher",
+            "backupPath": "/home/pd0rk1n/.config/Code/Backups/4d727e0b94a7417f0e2c4f34d92320d0",
+            "uiState": {
+                "mode": 1,
+                "x": 964,
+                "y": 37,
+                "width": 949,
+                "height": 1036
+            }
+        },
+        "openedWindows": []
+    }
+}

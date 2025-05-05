@@ -1,0 +1,14 @@
+2025/05/03-09:28:43.440 406f9 Reusing MANIFEST /home/pd0rk1n/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_outlook.live.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/03-09:28:43.440 406f9 Recovering log #209
+2025/05/03-09:28:43.441 406f9 Reusing old log /home/pd0rk1n/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_outlook.live.com_0.indexeddb.leveldb/000209.log 
+2025/05/03-09:28:43.441 406f9 Delete type=2 #208
+2025/05/03-09:28:43.447 40706 Level-0 table #214: started
+2025/05/03-09:28:43.448 40706 Level-0 table #214: 551 bytes OK
+2025/05/03-09:28:43.450 40706 Delete type=0 #209
+2025/05/03-09:28:43.451 40707 Manual compaction at level-0 from '\x00=\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00>\x00\x00\x00' @ 0 : 0; will stop at '\x00=\x00\x00\x05' @ 1087 : 1
+2025/05/03-09:28:43.451 40707 Compacting 1@0 + 1@1 files
+2025/05/03-09:28:43.457 40707 Generated table #215@0: 28 keys, 701 bytes
+2025/05/03-09:28:43.458 40707 Compacted 1@0 + 1@1 files => 701 bytes
+2025/05/03-09:28:43.459 40707 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/03-09:28:43.460 40707 Delete type=2 #214
+2025/05/03-09:28:43.460 40707 Manual compaction at level-0 from '\x00=\x00\x00\x05' @ 1087 : 1 .. '\x00>\x00\x00\x00' @ 0 : 0; will stop at (end)

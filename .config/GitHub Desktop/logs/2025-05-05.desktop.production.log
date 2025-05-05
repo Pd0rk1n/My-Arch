@@ -1,0 +1,114 @@
+2025-05-05T18:23:53.264Z - info: [ui] [AppStore] loading 0 repositories from store
+2025-05-05T18:23:53.307Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2025-05-05T18:23:53.354Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2025-05-05T18:23:53.358Z - info: [ui] launching: 3.4.13-linux1 (Linux 6.14.4-arch1-2)
+2025-05-05T18:23:53.359Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2025-05-05T18:23:53.421Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2025-05-05T18:23:53.466Z - info: [ui] Opt in reported.
+2025-05-05T18:23:58.354Z - info: [ui] [Welcome] advancing to step: SignInToDotComWithBrowser
+2025-05-05T18:23:58.355Z - info: [ui] [SignInStore] initializing OAuth flow
+2025-05-05T18:23:58.359Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=32307b23-73f9-48e4-adb5-12466310051c
+2025-05-05T18:23:58.360Z - info: [ui] [Welcome] current sign in state not found. ignoring...
+2025-05-05T18:23:59.013Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2025-05-05T18:23:59.075Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2025-05-05T18:23:59.079Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2025-05-05T18:29:09.064Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2025-05-05T18:29:13.016Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2025-05-05T18:29:15.572Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2025-05-05T18:29:19.112Z - info: [ui] [Welcome] advancing to step: ConfigureGit
+2025-05-05T18:31:20.906Z - info: [ui] [SignInStore] OAuth error but session has changed: Error: cancelled
+2025-05-05T18:31:22.892Z - info: [ui] [SignInStore] initializing OAuth flow
+2025-05-05T18:31:22.897Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=29010387-80dd-439a-972c-0657a9ceee88
+2025-05-05T18:31:38.592Z - info: [main] Received possible protocol arguments: 3
+2025-05-05T18:31:38.593Z - info: [main] Processing protocol url
+2025-05-05T18:31:38.706Z - info: [main] Received possible protocol arguments: 2
+2025-05-05T18:31:38.712Z - info: [main] Processing protocol url
+2025-05-05T18:31:39.323Z - info: [ui] [SignInStore] account resolved
+2025-05-05T18:31:39.323Z - info: [ui] [AppStore] adding account Pd0rk1n (Pd0rk1n) to store
+2025-05-05T18:31:39.574Z - info: [ui] Subscribed 'Pd0rk1n' to Alive channel
+2025-05-05T18:35:08.247Z - info: [ui] [AppStore] loading 0 repositories from store
+2025-05-05T18:35:08.255Z - info: [ui] [AppStore] found account: Pd0rk1n (Pd0rk1n)
+2025-05-05T18:35:08.307Z - info: [ui] launching: 3.4.13-linux1 (Linux 6.14.4-arch1-2)
+2025-05-05T18:35:08.310Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2025-05-05T18:35:08.548Z - info: [ui] Stats reported.
+2025-05-05T18:35:08.593Z - info: [ui] Subscribed 'Pd0rk1n' to Alive channel
+2025-05-05T18:36:08.230Z - info: [ui] [AppStore] adding repository at /home/pd0rk1n/Documents/GitHub/My-Arch to store
+2025-05-05T18:38:50.216Z - info: [ui] [AppStore] loading 1 repositories from store
+2025-05-05T18:38:50.220Z - info: [ui] [AppStore] found account: Pd0rk1n (Pd0rk1n)
+2025-05-05T18:38:50.432Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2025-05-05T18:38:50.505Z - info: [ui] launching: 3.4.13-linux1 (Linux 6.14.4-arch1-2)
+2025-05-05T18:38:50.505Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2025-05-05T18:38:51.056Z - info: [ui] Subscribed 'Pd0rk1n' to Alive channel
+2025-05-05T18:40:28.831Z - error: [ui] `git commit -F -` exited with an unexpected code: 1.
+On branch main
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	arcolinux-nemesis/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+2025-05-05T18:40:28.831Z - info: [ui] [Timing] Action 'create commit' for 'My-Arch' took 0.034s
+2025-05-05T18:40:57.660Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-05-05T18:40:58.435Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-05-05T18:40:58.942Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-05-05T18:40:59.771Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2025-05-05T18:40:59.807Z - info: [ui] [BranchPruner] No branches to prune.
+2025-05-05T18:41:21.601Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-05-05T18:41:22.059Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-05-05T18:41:44.377Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-05-05T18:41:44.864Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-05-05T18:43:20.849Z - info: [ui] [AppStore] adding repository at /home/pd0rk1n/Documents/GitHub/My-Arch to store
+2025-05-05T18:43:20.878Z - info: [ui] [BranchPruner] Last prune took place 2 minutes ago - skipping
+2025-05-05T18:43:42.464Z - info: [ui] [BranchPruner] Last prune took place 3 minutes ago - skipping
+2025-05-05T18:43:59.342Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2025-05-05T18:44:23.677Z - info: [ui] [AppStore] adding repository at /home/pd0rk1n/Documents/GitHub/My-Arch/arcolinux-nemesis to store
+2025-05-05T18:44:52.380Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2025-05-05T18:44:59.654Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2025-05-05T18:45:27.491Z - info: [ui] [Timing] Action 'create commit' for 'erikdubois/arcolinux-nemesis' took 0.268s
+2025-05-05T18:45:27.516Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2025-05-05T18:45:33.126Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-05-05T18:45:33.232Z - error: [ui] `git push origin master:master --progress` exited with an unexpected code: 128.
+remote: Permission to erikdubois/arcolinux-nemesis.git denied to Pd0rk1n.
+fatal: unable to access 'https://github.com/erikdubois/arcolinux-nemesis.git/': The requested URL returned error: 403
+
+(The error was parsed as 4: Authentication failed. Some common reasons include:
+
+- You are not logged in to your account: see File > Options.
+- You may need to log out and log back in to refresh your token.
+- You do not have permission to access this repository.
+- The repository is archived on GitHub. Check the repository settings to confirm you are still permitted to push commits.
+- If you use SSH authentication, check that your key is added to the ssh-agent and associated with your account.
+- If you use SSH authentication, ensure the host key verification passes for your repository hosting service.
+- If you used username / password authentication, you might need to use a Personal Access Token instead of your account password. Check the documentation of your repository hosting service.)
+2025-05-05T18:45:48.698Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2025-05-05T18:46:05.175Z - info: [ui] [BranchPruner] Last prune took place 17 seconds ago - skipping
+2025-05-05T18:46:05.289Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2025-05-05T18:46:09.070Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-05-05T18:46:09.246Z - error: [ui] `git push origin master:master --progress` exited with an unexpected code: 1.
+To https://github.com/Pd0rk1n/arcolinux-nemesis.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/Pd0rk1n/arcolinux-nemesis.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+(The error was parsed as 11: The repository has been updated since you last pulled. Try pulling before pushing.)
+2025-05-05T18:46:30.950Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-05-05T22:49:03.431Z - info: [ui] [AppStore] loading 2 repositories from store
+2025-05-05T22:49:03.437Z - info: [ui] [AppStore] found account: Pd0rk1n (Pd0rk1n)
+2025-05-05T22:49:03.477Z - info: [ui] [BranchPruner] Last prune took place 4 hours ago - skipping
+2025-05-05T22:49:03.686Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2025-05-05T22:49:03.734Z - info: [ui] launching: 3.4.13-linux1 (Linux 6.14.4-arch1-2)
+2025-05-05T22:49:03.735Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2025-05-05T22:49:03.802Z - info: [ui] Subscribed 'Pd0rk1n' to Alive channel

@@ -1,0 +1,18 @@
+<?xml version="1.1" encoding="UTF-8"?>
+
+<channel name="parole" version="1.0">
+  <property name="subtitles" type="empty">
+    <property name="font" type="string" value="Sans Bold 20"/>
+  </property>
+  <property name="folders" type="empty">
+    <property name="last-used-media" type="string" value="/run/user/1000/gvfs/smb-share:server=10.0.0.19,share=6tb/Tv/Friends (1994) Season 1-10 S01-S10 (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence)/Season 1"/>
+  </property>
+  <property name="window" type="empty">
+    <property name="maximized" type="bool" value="false"/>
+    <property name="width" type="int" value="949"/>
+    <property name="height" type="int" value="1036"/>
+  </property>
+  <property name="audio" type="empty">
+    <property name="volume" type="int" value="50"/>
+  </property>
+</channel>
