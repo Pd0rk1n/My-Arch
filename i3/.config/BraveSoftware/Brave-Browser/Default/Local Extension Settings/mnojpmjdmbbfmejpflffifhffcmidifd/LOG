@@ -1,0 +1,47 @@
+2025/05/05-14:41:53.400 8372f Reusing MANIFEST /home/pd0rk1n/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/MANIFEST-000001
+2025/05/05-14:41:53.401 8372f Recovering log #1718
+2025/05/05-14:41:53.408 8372f Reusing old log /home/pd0rk1n/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/001718.log 
+2025/05/05-14:43:53.960 8372e Level-0 table #1722: started
+2025/05/05-14:43:53.968 8372e Level-0 table #1722: 414599 bytes OK
+2025/05/05-14:43:53.971 8372e Delete type=0 #1718
+2025/05/05-14:49:54.619 8372e Compacting 3@0 + 1@1 files
+2025/05/05-14:49:54.627 8372e Generated table #1723@0: 72 keys, 109531 bytes
+2025/05/05-14:49:54.627 8372e Compacted 3@0 + 1@1 files => 109531 bytes
+2025/05/05-14:49:54.629 8372e compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/05-14:49:54.629 8372e Delete type=2 #1719
+2025/05/05-14:49:54.630 8372e Delete type=2 #1722
+2025/05/05-14:49:54.630 8372e Delete type=2 #1713
+2025/05/05-14:49:54.630 8372e Delete type=2 #1715
+2025/05/05-15:08:55.082 8372e Compacting 1@1 + 1@2 files
+2025/05/05-15:08:55.094 8372e Generated table #1724@1: 24 keys, 108370 bytes
+2025/05/05-15:08:55.094 8372e Compacted 1@1 + 1@2 files => 108370 bytes
+2025/05/05-15:08:55.096 8372e compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/05/05-15:08:55.096 8372e Delete type=2 #1723
+2025/05/05-15:08:55.096 8372e Delete type=2 #1697
+2025/05/05-15:23:55.418 8372e Level-0 table #1726: started
+2025/05/05-15:23:55.427 8372e Level-0 table #1726: 414758 bytes OK
+2025/05/05-15:23:55.430 8372e Delete type=0 #1721
+2025/05/05-15:34:55.871 8372d Level-0 table #1728: started
+2025/05/05-15:34:55.880 8372d Level-0 table #1728: 409697 bytes OK
+2025/05/05-15:34:55.882 8372d Delete type=0 #1725
+2025/05/05-15:45:56.090 8372e Compacting 1@0 + 1@1 files
+2025/05/05-15:45:56.099 8372e Generated table #1729@0: 25 keys, 105944 bytes
+2025/05/05-15:45:56.099 8372e Compacted 1@0 + 1@1 files => 105944 bytes
+2025/05/05-15:45:56.101 8372e compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/05-15:45:56.101 8372e Delete type=2 #1728
+2025/05/05-15:45:56.101 8372e Delete type=2 #1726
+2025/05/05-15:54:56.715 8372e Level-0 table #1731: started
+2025/05/05-15:54:56.725 8372e Level-0 table #1731: 409922 bytes OK
+2025/05/05-15:54:56.727 8372e Delete type=0 #1727
+2025/05/05-16:08:57.726 8372d Compacting 1@0 + 1@1 files
+2025/05/05-16:08:57.734 8372d Generated table #1732@0: 26 keys, 104931 bytes
+2025/05/05-16:08:57.734 8372d Compacted 1@0 + 1@1 files => 104931 bytes
+2025/05/05-16:08:57.736 8372d compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/05-16:08:57.736 8372d Delete type=2 #1731
+2025/05/05-16:08:57.736 8372d Delete type=2 #1729
+2025/05/05-16:41:57.734 8372e Compacting 1@1 + 1@2 files
+2025/05/05-16:41:57.740 8372e Generated table #1733@1: 9 keys, 104297 bytes
+2025/05/05-16:41:57.740 8372e Compacted 1@1 + 1@2 files => 104297 bytes
+2025/05/05-16:41:57.742 8372e compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/05/05-16:41:57.742 8372e Delete type=2 #1724
+2025/05/05-16:41:57.742 8372e Delete type=2 #1732

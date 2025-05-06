@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "campaigns": [
+    {
+      "campaignId": "9d199e44-e17f-47d7-9ec7-16ff8a452273",
+      "logo": {
+        "imageUrl": "fab5c3e0-bd31-4300-a2c8-819538c5c470.png",
+        "destinationUrl": "https://foundation.app/collection/LOVE-PROTOCOL",
+        "alt": "Love Protocol - is a cyberpunk odyssey of love and defiance. Click the link now, and collect these exclusive NFTs! - Learn More",
+        "companyName": "Love Protocol"
+      },
+      "wallpapers": [
+        {
+          "imageUrl": "c1488d9a-54e8-41b7-8961-e71154f72415.jpg",
+          "creativeInstanceId": "273ae87b-60d9-43ce-ba43-b81132ebd228",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          }
+        },
+        {
+          "imageUrl": "48d882dd-3599-4467-a9dd-b8aacdaac78b.jpg",
+          "creativeInstanceId": "1cc0cde2-6ed6-456f-8a47-d8d630bdba74",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          }
+        },
+        {
+          "imageUrl": "54bdc5f9-ca07-49a9-9524-c5dd7856360a.jpg",
+          "creativeInstanceId": "4d3415d7-7b4c-419b-a376-3ee338381314",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          }
+        }
+      ]
+    }
+  ],
+  "campaigns2": [
+    {
+      "campaignId": "9d199e44-e17f-47d7-9ec7-16ff8a452273",
+      "logo": {
+        "imageUrl": "fab5c3e0-bd31-4300-a2c8-819538c5c470.png",
+        "destinationUrl": "https://foundation.app/collection/LOVE-PROTOCOL",
+        "alt": "Love Protocol - is a cyberpunk odyssey of love and defiance. Click the link now, and collect these exclusive NFTs! - Learn More",
+        "companyName": "Love Protocol"
+      },
+      "wallpapers": [
+        {
+          "imageUrl": "c1488d9a-54e8-41b7-8961-e71154f72415.jpg",
+          "creativeInstanceId": "273ae87b-60d9-43ce-ba43-b81132ebd228",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          }
+        },
+        {
+          "imageUrl": "48d882dd-3599-4467-a9dd-b8aacdaac78b.jpg",
+          "creativeInstanceId": "1cc0cde2-6ed6-456f-8a47-d8d630bdba74",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          }
+        },
+        {
+          "imageUrl": "54bdc5f9-ca07-49a9-9524-c5dd7856360a.jpg",
+          "creativeInstanceId": "4d3415d7-7b4c-419b-a376-3ee338381314",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          }
+        }
+      ]
+    }
+  ]
+}

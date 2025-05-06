@@ -1,0 +1,50 @@
+5/4/2025, 9:59:44 PM EDT 8: ✅ webContents.did-finish-load web1
+5/4/2025, 9:59:45 PM EDT 9: ✅ webContents.created web2 ""
+5/4/2025, 9:59:45 PM EDT 10: ✅ window.created win2 "Discord"
+5/4/2025, 9:59:46 PM EDT 11: window.close win2
+5/4/2025, 9:59:47 PM EDT 12: window.close win1
+5/4/2025, 9:59:47 PM EDT 13: webContents.destroyed web1
+5/4/2025, 9:59:47 PM EDT 14: window.closed win1
+5/4/2025, 9:59:48 PM EDT 15: ✅ webContents.did-finish-load web2
+5/4/2025, 9:59:49 PM EDT 16: window.close win2
+5/4/2025, 10:01:16 PM EDT 17: before-quit
+5/4/2025, 10:01:16 PM EDT 18: window.close win2
+5/4/2025, 10:01:47 PM EDT 0: 
+
+----------------------------------------------
+5/4/2025, 10:01:47 PM EDT 1: Discord starting: {"releaseChannel":"stable","version":"0.0.93"}, modulepath: /home/pd0rk1n/.config/discord/0.0.93/modules
+5/4/2025, 10:01:47 PM EDT 2: ✅ webContents.created web1 ""
+5/4/2025, 10:01:48 PM EDT 3: ✅ window.created win1 "discord"
+5/4/2025, 10:01:48 PM EDT 4: ✅ webContents.did-finish-load web1
+5/4/2025, 10:01:48 PM EDT 5: ✅ webContents.created web2 ""
+5/4/2025, 10:01:48 PM EDT 6: ✅ window.created win2 "Discord"
+5/4/2025, 10:01:51 PM EDT 7: ✅ webContents.did-finish-load web2
+5/4/2025, 10:01:51 PM EDT 8: window.close win1
+5/4/2025, 10:01:51 PM EDT 9: webContents.destroyed web1
+5/4/2025, 10:01:51 PM EDT 10: window.closed win1
+5/4/2025, 10:01:52 PM EDT 11: window.close win2
+5/4/2025, 10:08:14 PM EDT 12: before-quit
+5/4/2025, 10:08:14 PM EDT 13: window.close win2
+5/4/2025, 10:08:41 PM EDT 0: 
+
+----------------------------------------------
+5/4/2025, 10:08:41 PM EDT 1: Discord starting: {"releaseChannel":"stable","version":"0.0.93"}, modulepath: /home/pd0rk1n/.config/discord/0.0.93/modules
+5/4/2025, 10:08:41 PM EDT 2: ✅ webContents.created web1 ""
+5/4/2025, 10:08:41 PM EDT 3: ✅ window.created win1 "discord"
+5/4/2025, 10:08:41 PM EDT 4: ✅ webContents.did-finish-load web1
+5/4/2025, 10:08:48 PM EDT 5: window.close win1
+5/4/2025, 10:08:48 PM EDT 6: webContents.destroyed web1
+5/4/2025, 10:14:37 PM EDT 0: 
+
+----------------------------------------------
+5/4/2025, 10:14:37 PM EDT 1: Discord starting: {"releaseChannel":"stable","version":"0.0.93"}, modulepath: /home/pd0rk1n/.config/discord/0.0.93/modules
+5/4/2025, 10:14:37 PM EDT 2: ✅ webContents.created web1 ""
+5/4/2025, 10:14:37 PM EDT 3: ✅ window.created win1 "discord"
+5/4/2025, 10:14:37 PM EDT 4: ✅ webContents.did-finish-load web1
+5/4/2025, 10:14:37 PM EDT 5: ✅ webContents.created web2 ""
+5/4/2025, 10:14:37 PM EDT 6: ✅ window.created win2 "Discord"
+5/4/2025, 10:14:40 PM EDT 7: ✅ webContents.did-finish-load web2
+5/4/2025, 10:14:40 PM EDT 8: window.close win1
+5/4/2025, 10:14:40 PM EDT 9: webContents.destroyed web1
+5/4/2025, 10:14:40 PM EDT 10: window.closed win1
+5/4/2025, 10:14:59 PM EDT 11: window.close win2

@@ -1,0 +1,25 @@
+[Added Associations]
+application/x-shellscript=org.x.editor.desktop;
+inode/directory=xfce4-file-manager.desktop;nemo.desktop;
+x-scheme-handler/trash=xfce4-file-manager.desktop;
+x-scheme-handler/http=xfce4-web-browser.desktop;
+x-scheme-handler/https=xfce4-web-browser.desktop;
+application/x-fishscript=org.x.editor.desktop;
+text/plain=org.x.editor.desktop;
+application/schema+json=org.x.editor.desktop;
+video/x-matroska=vlc.desktop;
+application/octet-stream=org.x.editor.desktop;
+
+[Default Applications]
+inode/directory=nemo.desktop
+x-scheme-handler/trash=xfce4-file-manager.desktop
+x-scheme-handler/http=brave-browser.desktop
+x-scheme-handler/https=brave-browser.desktop
+application/x-fishscript=org.x.editor.desktop
+text/plain=org.x.editor.desktop
+application/schema+json=org.x.editor.desktop
+text/html=brave-browser.desktop
+x-scheme-handler/about=brave-browser.desktop
+x-scheme-handler/unknown=brave-browser.desktop
+video/x-matroska=vlc.desktop
+application/octet-stream=org.x.editor.desktop

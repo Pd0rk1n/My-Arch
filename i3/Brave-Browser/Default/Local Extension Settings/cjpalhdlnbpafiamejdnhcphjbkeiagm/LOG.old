@@ -1,0 +1,76 @@
+2025/05/02-22:36:55.059 311a Reusing MANIFEST /home/pd0rk1n/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2025/05/02-22:36:55.067 311a Recovering log #4616
+2025/05/02-22:36:55.067 311a Reusing old log /home/pd0rk1n/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/004616.log 
+2025/05/02-22:36:55.067 311a Delete type=2 #4599
+2025/05/02-22:36:55.067 311a Delete type=2 #4596
+2025/05/02-22:36:55.067 311a Delete type=2 #4568
+2025/05/02-22:36:55.067 311a Delete type=2 #4514
+2025/05/02-22:36:55.068 311a Delete type=2 #4535
+2025/05/02-22:36:55.068 311a Delete type=2 #4528
+2025/05/02-22:36:55.068 311a Delete type=2 #4597
+2025/05/02-22:36:55.068 311a Delete type=2 #4533
+2025/05/02-22:36:55.068 311a Delete type=2 #4566
+2025/05/02-22:36:55.068 311a Delete type=2 #4530
+2025/05/02-22:36:55.068 311a Delete type=2 #4513
+2025/05/02-22:36:55.068 311a Delete type=2 #4545
+2025/05/02-22:36:55.069 311a Delete type=2 #4492
+2025/05/02-22:36:55.069 311a Delete type=2 #4529
+2025/05/02-22:36:55.069 311a Delete type=2 #4515
+2025/05/02-22:36:55.069 311a Delete type=2 #4594
+2025/05/02-22:36:55.069 311a Delete type=2 #4551
+2025/05/02-22:36:55.069 311a Delete type=2 #4511
+2025/05/02-22:36:55.069 311a Delete type=0 #4534
+2025/05/02-22:36:55.069 311a Delete type=0 #4600
+2025/05/02-22:36:55.069 311a Delete type=2 #4516
+2025/05/02-22:36:55.069 311a Delete type=2 #4531
+2025/05/02-22:36:55.069 311a Delete type=2 #4512
+2025/05/02-22:36:55.069 311a Delete type=2 #4517
+2025/05/02-22:36:55.069 311a Delete type=2 #4565
+2025/05/02-22:36:55.069 311a Delete type=2 #4595
+2025/05/02-22:36:55.069 311a Delete type=2 #4601
+2025/05/02-22:36:55.069 311a Delete type=2 #4567
+2025/05/02-22:37:06.038 311b Level-0 table #4620: started
+2025/05/02-22:37:06.056 311b Level-0 table #4620: 4171443 bytes OK
+2025/05/02-22:37:06.059 311b Delete type=0 #4616
+2025/05/02-22:37:12.157 311b Level-0 table #4622: started
+2025/05/02-22:37:12.184 311b Level-0 table #4622: 4217713 bytes OK
+2025/05/02-22:37:12.187 311b Delete type=0 #4619
+2025/05/02-22:37:21.799 311b Level-0 table #4624: started
+2025/05/02-22:37:21.812 311b Level-0 table #4624: 4187924 bytes OK
+2025/05/02-22:37:21.815 311b Delete type=0 #4621
+2025/05/02-22:37:25.538 311b Level-0 table #4626: started
+2025/05/02-22:37:25.570 311b Level-0 table #4626: 4401576 bytes OK
+2025/05/02-22:37:25.573 311b Delete type=0 #4623
+2025/05/02-22:37:25.575 311b Compacting 4@0 + 2@1 files
+2025/05/02-22:37:25.588 311b Generated table #4627@0: 6 keys, 2522825 bytes
+2025/05/02-22:37:25.600 311b Generated table #4628@0: 5 keys, 2362397 bytes
+2025/05/02-22:37:25.611 311b Generated table #4629@0: 3 keys, 2124771 bytes
+2025/05/02-22:37:25.624 311b Generated table #4630@0: 6 keys, 2362868 bytes
+2025/05/02-22:37:25.636 311b Generated table #4631@0: 7 keys, 2143808 bytes
+2025/05/02-22:37:25.652 311b Generated table #4632@0: 9 keys, 2798905 bytes
+2025/05/02-22:37:25.657 311b Generated table #4633@0: 4 keys, 928997 bytes
+2025/05/02-22:37:25.664 311b Generated table #4634@0: 11 keys, 1731745 bytes
+2025/05/02-22:37:25.664 311b Compacted 4@0 + 2@1 files => 16976316 bytes
+2025/05/02-22:37:25.666 311b compacted to: files[ 0 8 9 0 0 0 0 ]
+2025/05/02-22:37:25.667 311b Delete type=2 #4620
+2025/05/02-22:37:25.667 311b Delete type=2 #4609
+2025/05/02-22:37:25.667 311b Delete type=2 #4608
+2025/05/02-22:37:25.667 311b Delete type=2 #4624
+2025/05/02-22:37:25.667 311b Delete type=2 #4622
+2025/05/02-22:37:25.667 311b Delete type=2 #4626
+2025/05/02-22:37:25.670 311b Compacting 1@1 + 1@2 files
+2025/05/02-22:37:25.683 311b Generated table #4635@1: 6 keys, 2362868 bytes
+2025/05/02-22:37:25.683 311b Compacted 1@1 + 1@2 files => 2362868 bytes
+2025/05/02-22:37:25.686 311b compacted to: files[ 0 7 9 0 0 0 0 ]
+2025/05/02-22:37:25.686 311b Delete type=2 #4630
+2025/05/02-22:37:25.686 311b Delete type=2 #4615
+2025/05/02-22:37:25.687 311b Expanding@1 1+2 (2143808+4926262 bytes) to 2+2 (4942713+4926262 bytes)
+2025/05/02-22:37:25.687 311b Compacting 2@1 + 2@2 files
+2025/05/02-22:37:25.697 311b Generated table #4636@1: 8 keys, 2131427 bytes
+2025/05/02-22:37:25.713 311b Generated table #4637@1: 10 keys, 2863525 bytes
+2025/05/02-22:37:25.713 311b Compacted 2@1 + 2@2 files => 4994952 bytes
+2025/05/02-22:37:25.715 311b compacted to: files[ 0 5 9 0 0 0 0 ]
+2025/05/02-22:37:25.716 311b Delete type=2 #4569
+2025/05/02-22:37:25.716 311b Delete type=2 #4632
+2025/05/02-22:37:25.716 311b Delete type=2 #4631
+2025/05/02-22:37:25.716 311b Delete type=2 #4583

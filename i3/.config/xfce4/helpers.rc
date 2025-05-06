@@ -1,0 +1,5 @@
+FileManager=custom-FileManager
+TerminalEmulator=xfce4-terminal
+MailReader=evolution
+
+WebBrowser=brave-browser

@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "campaigns": [
+    {
+      "campaignId": "67ca2357-e02b-4cff-a847-fb51b380a405",
+      "logo": {
+        "imageUrl": "b3cd9437-f483-4504-a6f9-64137b94603b.png",
+        "destinationUrl": "https://talk.brave.com/?mtm_source=brave-browser&mtm_medium=brave-ntp&mtm_campaign=brave-talk&mtm_content=14d5de3e-c4d0-49bb-9238-03cec660fd83&mtm_date=20250420",
+        "alt": "Experience Secure and Private Web 3 Video Calls with Brave Talk",
+        "companyName": "Brave"
+      },
+      "wallpapers": [
+        {
+          "imageUrl": "39caa084-41ce-4604-9fae-b4b668e2a7d8.jpg",
+          "creativeInstanceId": "14d5de3e-c4d0-49bb-9238-03cec660fd83",
+          "focalPoint": {
+            "x": 1010,
+            "y": 720
+          }
+        },
+        {
+          "imageUrl": "5d9284d6-9d93-4d67-825d-92fe4a87a9dd.jpg",
+          "creativeInstanceId": "1b9e47f4-73a9-430f-9718-114ae65552af",
+          "focalPoint": {
+            "x": 1010,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "a4c0402b-6489-44a3-b623-2445d4ae2df8.png",
+            "destinationUrl": "https://talk.brave.com/?mtm_source=brave-browser&mtm_medium=brave-ntp&mtm_campaign=brave-talk&mtm_content=1b9e47f4-73a9-430f-9718-114ae65552af&mtm_date=20250420",
+            "alt": "Experience Secure and Private Web 3 Video Calls with Brave Talk.",
+            "companyName": "Brave"
+          }
+        },
+        {
+          "imageUrl": "d7f67249-f019-4471-ad6d-6b66323241b7.jpg",
+          "creativeInstanceId": "e94860d0-463d-441d-91e3-97ddd59b02e8",
+          "focalPoint": {
+            "x": 1010,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "44e751b1-418d-4cf2-8965-da74e9125999.png",
+            "destinationUrl": "https://talk.brave.com/?mtm_source=brave-browser&mtm_medium=brave-ntp&mtm_campaign=brave-talk&mtm_content=e94860d0-463d-441d-91e3-97ddd59b02e8&mtm_date=20250420",
+            "alt": "Zoom out with Brave Talk",
+            "companyName": "Brave"
+          }
+        }
+      ]
+    }
+  ],
+  "campaigns2": [
+    {
+      "campaignId": "67ca2357-e02b-4cff-a847-fb51b380a405",
+      "logo": {
+        "imageUrl": "b3cd9437-f483-4504-a6f9-64137b94603b.png",
+        "destinationUrl": "https://talk.brave.com/?mtm_source=brave-browser&mtm_medium=brave-ntp&mtm_campaign=brave-talk&mtm_content=14d5de3e-c4d0-49bb-9238-03cec660fd83&mtm_date=20250420",
+        "alt": "Experience Secure and Private Web 3 Video Calls with Brave Talk",
+        "companyName": "Brave"
+      },
+      "wallpapers": [
+        {
+          "imageUrl": "39caa084-41ce-4604-9fae-b4b668e2a7d8.jpg",
+          "creativeInstanceId": "14d5de3e-c4d0-49bb-9238-03cec660fd83",
+          "focalPoint": {
+            "x": 1010,
+            "y": 720
+          }
+        },
+        {
+          "imageUrl": "5d9284d6-9d93-4d67-825d-92fe4a87a9dd.jpg",
+          "creativeInstanceId": "1b9e47f4-73a9-430f-9718-114ae65552af",
+          "focalPoint": {
+            "x": 1010,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "a4c0402b-6489-44a3-b623-2445d4ae2df8.png",
+            "destinationUrl": "https://talk.brave.com/?mtm_source=brave-browser&mtm_medium=brave-ntp&mtm_campaign=brave-talk&mtm_content=1b9e47f4-73a9-430f-9718-114ae65552af&mtm_date=20250420",
+            "alt": "Experience Secure and Private Web 3 Video Calls with Brave Talk.",
+            "companyName": "Brave"
+          }
+        },
+        {
+          "imageUrl": "d7f67249-f019-4471-ad6d-6b66323241b7.jpg",
+          "creativeInstanceId": "e94860d0-463d-441d-91e3-97ddd59b02e8",
+          "focalPoint": {
+            "x": 1010,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "44e751b1-418d-4cf2-8965-da74e9125999.png",
+            "destinationUrl": "https://talk.brave.com/?mtm_source=brave-browser&mtm_medium=brave-ntp&mtm_campaign=brave-talk&mtm_content=e94860d0-463d-441d-91e3-97ddd59b02e8&mtm_date=20250420",
+            "alt": "Zoom out with Brave Talk",
+            "companyName": "Brave"
+          }
+        }
+      ]
+    }
+  ]
+}
