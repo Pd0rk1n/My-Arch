@@ -1,2 +1,3 @@
-2025/05/05-14:33:10.496 80a55 Creating DB /home/pd0rk1n/.config/GitHub Desktop/Session Storage since it was missing.
-2025/05/05-14:33:10.503 80a55 Reusing MANIFEST /home/pd0rk1n/.config/GitHub Desktop/Session Storage/MANIFEST-000001
+2025/05/05-20:31:44.438 b0eb0 Reusing MANIFEST /home/pd0rk1n/.config/GitHub Desktop/Session Storage/MANIFEST-000001
+2025/05/05-20:31:44.438 b0eb0 Recovering log #3
+2025/05/05-20:31:44.438 b0eb0 Reusing old log /home/pd0rk1n/.config/GitHub Desktop/Session Storage/000003.log 

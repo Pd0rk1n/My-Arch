@@ -18,7 +18,6 @@
    } ],
    "default_locale": "en",
    "description": "__MSG_extension_description__",
-   "differential_fingerprint": "1.8ba3d32c8b82e0c3a29e30077169f7db95eda43dcce7112badf41e5bfdcca63a",
    "host_permissions": [ "\u003Call_urls>" ],
    "icons": {
       "128": "images/icon-128.png",

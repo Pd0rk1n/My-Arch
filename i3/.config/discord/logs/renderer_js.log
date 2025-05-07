@@ -4378,3 +4378,38 @@ Possible causes: the network is offline, Origin is not allowed by Access-Control
 [2025-05-05 18:33:31.499] [info]  [GatewaySocket] [RESUME] resuming session 77598abc5fe3f10d3c0a07999bac7797, seq: 6239
 [2025-05-05 18:33:32.015] [info]  [Flux] Dispatching CONNECTION_RESUMED
 [2025-05-05 18:33:32.020] [info]  [GatewaySocket] [RESUMED] took 775ms, replayed 0 events, new seq: 6240
+[2025-05-05 18:57:34.002] [info]  [GatewaySocket] [CONNECT] wss://gateway-us-east1-b.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-05-05 18:57:34.171] [info]  [GatewaySocket] [CONNECTED] wss://gateway-us-east1-b.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 169 ms
+[2025-05-05 18:57:34.171] [info]  [GatewaySocket] [RESUME] resuming session 77598abc5fe3f10d3c0a07999bac7797, seq: 6297
+[2025-05-05 18:57:35.016] [info]  [Flux] Dispatching CONNECTION_RESUMED
+[2025-05-05 18:57:35.017] [info]  [GatewaySocket] [RESUMED] took 1014ms, replayed 0 events, new seq: 6298
+[2025-05-05 19:47:45.472] [info]  [GatewaySocket] [CONNECT] wss://gateway-us-east1-b.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-05-05 19:47:45.682] [info]  [GatewaySocket] [CONNECTED] wss://gateway-us-east1-b.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 210 ms
+[2025-05-05 19:47:45.682] [info]  [GatewaySocket] [RESUME] resuming session 77598abc5fe3f10d3c0a07999bac7797, seq: 6400
+[2025-05-05 19:47:46.015] [info]  [Flux] Dispatching CONNECTION_RESUMED
+[2025-05-05 19:47:46.020] [info]  [GatewaySocket] [RESUMED] took 548ms, replayed 0 events, new seq: 6401
+[2025-05-05 20:29:32.825] [info]  [GatewaySocket] [CONNECT] wss://gateway-us-east1-b.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-05-05 20:29:33.059] [info]  [GatewaySocket] [CONNECTED] wss://gateway-us-east1-b.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 234 ms
+[2025-05-05 20:29:33.060] [info]  [GatewaySocket] [RESUME] resuming session 77598abc5fe3f10d3c0a07999bac7797, seq: 6498
+[2025-05-05 20:29:34.016] [info]  [Flux] Dispatching CONNECTION_RESUMED
+[2025-05-05 20:29:34.020] [info]  [GatewaySocket] [RESUMED] took 1195ms, replayed 0 events, new seq: 6499
+[2025-05-05 22:14:58.168] [info]  [libdiscore] [BlockedDomainsStore] Successfully fetched blocked domains
+[2025-05-05 22:52:08.574] [info]  [GatewaySocket] [WS CLOSED] (true, 4003, Not authenticated.) retrying in 1.07 seconds.
+[2025-05-05 22:52:10.016] [info]  [GatewaySocket] [CONNECT] wss://gateway-us-east1-b.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-05-05 22:52:10.263] [info]  [GatewaySocket] [CONNECTED] wss://gateway-us-east1-b.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 248 ms
+[2025-05-05 22:52:10.264] [info]  [GatewaySocket] [RESUME] resuming session 77598abc5fe3f10d3c0a07999bac7797, seq: 6669
+[2025-05-05 22:52:10.321] [info]  [GatewaySocket] [INVALID_SESSION]
+[2025-05-05 22:52:10.413] [warn]  [GatewaySocket] [WS CLOSED] because of authentication failure, marking as closed.
+[2025-05-05 22:52:10.414] [warn]  [GatewaySocket] [RESET] (true, 4004, Authentication failed.)
+[2025-05-05 22:52:10.414] [info]  [Flux] Dispatching CONNECTION_CLOSED
+[2025-05-05 22:52:10.454] [info]  [OverlayBridgeStore] updateIntendedOverlayPIDs undefined
+[2025-05-05 22:52:10.505] [info]  [Routing/Utils] transitionTo - Transitioning to /login
+[2025-05-06 02:14:59.163] [info]  [libdiscore] [BlockedDomainsStore] Successfully fetched blocked domains
+[2025-05-06 06:15:00.167] [info]  [libdiscore] [BlockedDomainsStore] Successfully fetched blocked domains
+[2025-05-06 10:15:01.210] [info]  [libdiscore] [BlockedDomainsStore] Successfully fetched blocked domains
+[2025-05-06 14:15:02.722] [info]  [libdiscore] [BlockedDomainsStore] Successfully fetched blocked domains
+[2025-05-06 18:15:03.296] [info]  [libdiscore] [BlockedDomainsStore] Successfully fetched blocked domains
+[2025-05-06 22:15:04.161] [info]  [libdiscore] [BlockedDomainsStore] Successfully fetched blocked domains
+[2025-05-07 02:15:05.142] [info]  [libdiscore] [BlockedDomainsStore] Successfully fetched blocked domains
+[2025-05-07 06:15:06.144] [info]  [libdiscore] [BlockedDomainsStore] Successfully fetched blocked domains
+[2025-05-07 10:15:07.298] [info]  [libdiscore] [BlockedDomainsStore] Successfully fetched blocked domains

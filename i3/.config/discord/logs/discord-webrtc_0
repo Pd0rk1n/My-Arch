@@ -334,3 +334,263 @@ Render pre processor: 0
 [2025-05-05 18:33:31.499] [8353] JS console: [GatewaySocket] [RESUME] resuming session 77598abc5fe3f10d3c0a07999bac7797, seq: 6239
 [2025-05-05 18:33:32.019] [8353] JS console: [GatewaySocket] [RESUMED] took 775ms, replayed 0 events, new seq: 6240
 [2025-05-05 18:44:54.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-05 18:57:34.001] [8353] JS console: [GatewaySocket] [CONNECT] wss://gateway-us-east1-b.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-05-05 18:57:34.171] [8353] JS console: [GatewaySocket] [CONNECTED] wss://gateway-us-east1-b.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 169 ms
+[2025-05-05 18:57:34.171] [8353] JS console: [GatewaySocket] [RESUME] resuming session 77598abc5fe3f10d3c0a07999bac7797, seq: 6297
+[2025-05-05 18:57:35.016] [8353] JS console: [GatewaySocket] [RESUMED] took 1014ms, replayed 0 events, new seq: 6298
+[2025-05-05 18:59:55.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-05 19:14:56.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-05 19:29:56.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-05 19:44:56.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-05 19:47:45.471] [8353] JS console: [GatewaySocket] [CONNECT] wss://gateway-us-east1-b.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-05-05 19:47:45.682] [8353] JS console: [GatewaySocket] [CONNECTED] wss://gateway-us-east1-b.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 210 ms
+[2025-05-05 19:47:45.682] [8353] JS console: [GatewaySocket] [RESUME] resuming session 77598abc5fe3f10d3c0a07999bac7797, seq: 6400
+[2025-05-05 19:47:46.019] [8353] JS console: [GatewaySocket] [RESUMED] took 548ms, replayed 0 events, new seq: 6401
+[2025-05-05 19:59:56.018] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-05 20:14:57.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-05 20:29:32.825] [8353] JS console: [GatewaySocket] [CONNECT] wss://gateway-us-east1-b.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-05-05 20:29:33.059] [8353] JS console: [GatewaySocket] [CONNECTED] wss://gateway-us-east1-b.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 234 ms
+[2025-05-05 20:29:33.059] [8353] JS console: [GatewaySocket] [RESUME] resuming session 77598abc5fe3f10d3c0a07999bac7797, seq: 6498
+[2025-05-05 20:29:34.020] [8353] JS console: [GatewaySocket] [RESUMED] took 1195ms, replayed 0 events, new seq: 6499
+[2025-05-05 20:29:57.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-05 20:44:57.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-05 20:59:58.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-05 21:14:58.016] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-05 21:29:58.016] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-05 21:44:58.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-05 21:59:58.018] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-05 22:14:58.054] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-05 22:15:04.177] [781757] (region_latency_tester.cpp:72): Sending 5 latency test pings to region newark
+[2025-05-05 22:15:04.177] [781757] (region_latency_tester.cpp:72): Sending 5 latency test pings to region us-east
+[2025-05-05 22:15:04.177] [781757] (region_latency_tester.cpp:72): Sending 5 latency test pings to region us-central
+[2025-05-05 22:15:04.177] [781757] (region_latency_tester.cpp:72): Sending 5 latency test pings to region atlanta
+[2025-05-05 22:15:04.177] [781757] (region_latency_tester.cpp:72): Sending 5 latency test pings to region us-south
+[2025-05-05 22:15:04.248] [781757] (region_latency_tester.cpp:287): Average RTT for region newark is 25.25
+[2025-05-05 22:15:04.249] [781757] (region_latency_tester.cpp:287): Average RTT for region us-east is 35
+[2025-05-05 22:15:04.249] [781757] (region_latency_tester.cpp:287): Average RTT for region us-central is 36.25
+[2025-05-05 22:15:04.249] [781757] (region_latency_tester.cpp:287): Average RTT for region atlanta is 51.25
+[2025-05-05 22:15:04.249] [781757] (region_latency_tester.cpp:287): Average RTT for region us-south is 68.25
+[2025-05-05 22:29:59.015] [8373] (instrumented_task.cpp:52): polling 2 metrics
+[2025-05-05 22:45:00.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-05 22:52:08.574] [8353] JS console: [GatewaySocket] [WS CLOSED] (true, 4003, Not authenticated.) retrying in 1.07 seconds.
+[2025-05-05 22:52:10.015] [8353] JS console: [GatewaySocket] [CONNECT] wss://gateway-us-east1-b.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-05-05 22:52:10.263] [8353] JS console: [GatewaySocket] [CONNECTED] wss://gateway-us-east1-b.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 248 ms
+[2025-05-05 22:52:10.263] [8353] JS console: [GatewaySocket] [RESUME] resuming session 77598abc5fe3f10d3c0a07999bac7797, seq: 6669
+[2025-05-05 22:52:10.320] [8353] JS console: [GatewaySocket] [INVALID_SESSION]
+[2025-05-05 22:52:10.412] [8353] JS console: [GatewaySocket] [WS CLOSED] because of authentication failure, marking as closed.
+[2025-05-05 22:52:10.412] [8353] JS console: [GatewaySocket] [RESET] (true, 4004, Authentication failed.)
+[2025-05-05 23:00:00.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-05 23:15:00.051] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-05 23:30:01.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-05 23:45:01.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 00:00:01.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 00:15:02.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 00:30:02.016] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 00:45:02.016] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 01:00:02.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 01:15:03.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 01:30:03.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 01:45:03.016] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 02:00:03.016] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 02:15:03.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 02:30:03.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 02:45:03.018] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 03:00:04.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 03:15:04.016] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 03:30:04.016] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 03:45:04.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 04:00:04.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 04:15:04.183] [971655] (region_latency_tester.cpp:72): Sending 5 latency test pings to region newark
+[2025-05-06 04:15:04.183] [971655] (region_latency_tester.cpp:72): Sending 5 latency test pings to region us-east
+[2025-05-06 04:15:04.183] [971655] (region_latency_tester.cpp:72): Sending 5 latency test pings to region us-central
+[2025-05-06 04:15:04.183] [971655] (region_latency_tester.cpp:72): Sending 5 latency test pings to region atlanta
+[2025-05-06 04:15:04.183] [971655] (region_latency_tester.cpp:72): Sending 5 latency test pings to region us-south
+[2025-05-06 04:15:04.246] [971655] (region_latency_tester.cpp:287): Average RTT for region newark is 28
+[2025-05-06 04:15:04.246] [971655] (region_latency_tester.cpp:287): Average RTT for region us-east is 37.25
+[2025-05-06 04:15:04.246] [971655] (region_latency_tester.cpp:287): Average RTT for region us-central is 28
+[2025-05-06 04:15:04.246] [971655] (region_latency_tester.cpp:287): Average RTT for region atlanta is 43
+[2025-05-06 04:15:04.246] [971655] (region_latency_tester.cpp:287): Average RTT for region us-south is 60
+[2025-05-06 04:15:05.015] [8373] (instrumented_task.cpp:52): polling 2 metrics
+[2025-05-06 04:30:06.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 04:45:06.016] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 05:00:06.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 05:15:06.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 05:30:06.018] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 05:45:07.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 06:00:07.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 06:15:07.016] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 06:30:07.016] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 06:45:07.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 07:00:07.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 07:15:07.018] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 07:30:08.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 07:45:08.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 08:00:08.016] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 08:15:08.016] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 08:30:08.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 08:45:08.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 09:00:08.018] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 09:15:09.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 09:30:09.016] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 09:45:09.016] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 10:00:09.016] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 10:15:05.164] [1153026] (region_latency_tester.cpp:72): Sending 5 latency test pings to region newark
+[2025-05-06 10:15:05.164] [1153026] (region_latency_tester.cpp:72): Sending 5 latency test pings to region us-east
+[2025-05-06 10:15:05.164] [1153026] (region_latency_tester.cpp:72): Sending 5 latency test pings to region us-central
+[2025-05-06 10:15:05.164] [1153026] (region_latency_tester.cpp:72): Sending 5 latency test pings to region atlanta
+[2025-05-06 10:15:05.164] [1153026] (region_latency_tester.cpp:72): Sending 5 latency test pings to region us-south
+[2025-05-06 10:15:05.236] [1153026] (region_latency_tester.cpp:287): Average RTT for region newark is 27.25
+[2025-05-06 10:15:05.236] [1153026] (region_latency_tester.cpp:287): Average RTT for region us-east is 30.5
+[2025-05-06 10:15:05.236] [1153026] (region_latency_tester.cpp:287): Average RTT for region us-central is 34.25
+[2025-05-06 10:15:05.236] [1153026] (region_latency_tester.cpp:287): Average RTT for region atlanta is 50.75
+[2025-05-06 10:15:05.236] [1153026] (region_latency_tester.cpp:287): Average RTT for region us-south is 61.5
+[2025-05-06 10:15:09.017] [8373] (instrumented_task.cpp:52): polling 2 metrics
+[2025-05-06 10:30:10.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 10:45:10.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 11:00:10.016] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 11:15:10.016] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 11:30:10.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 11:45:10.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 12:00:11.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 12:15:11.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 12:30:11.016] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 12:45:11.016] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 13:00:11.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 13:15:11.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 13:30:11.018] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 13:45:12.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 14:00:12.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 14:15:12.016] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 14:30:12.016] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 14:45:12.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 15:00:12.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 15:15:13.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 15:30:13.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 15:45:13.016] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 16:00:13.016] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 16:15:05.208] [1330825] (region_latency_tester.cpp:72): Sending 5 latency test pings to region newark
+[2025-05-06 16:15:05.208] [1330825] (region_latency_tester.cpp:72): Sending 5 latency test pings to region us-east
+[2025-05-06 16:15:05.208] [1330825] (region_latency_tester.cpp:72): Sending 5 latency test pings to region us-central
+[2025-05-06 16:15:05.208] [1330825] (region_latency_tester.cpp:72): Sending 5 latency test pings to region atlanta
+[2025-05-06 16:15:05.208] [1330825] (region_latency_tester.cpp:72): Sending 5 latency test pings to region us-south
+[2025-05-06 16:15:05.275] [1330825] (region_latency_tester.cpp:287): Average RTT for region newark is 30
+[2025-05-06 16:15:05.275] [1330825] (region_latency_tester.cpp:287): Average RTT for region us-east is 33
+[2025-05-06 16:15:05.275] [1330825] (region_latency_tester.cpp:287): Average RTT for region us-central is 30.75
+[2025-05-06 16:15:05.275] [1330825] (region_latency_tester.cpp:287): Average RTT for region atlanta is 46
+[2025-05-06 16:15:05.275] [1330825] (region_latency_tester.cpp:287): Average RTT for region us-south is 62.5
+[2025-05-06 16:15:13.017] [8373] (instrumented_task.cpp:52): polling 2 metrics
+[2025-05-06 16:30:14.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 16:45:14.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 17:00:14.016] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 17:15:14.016] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 17:30:14.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 17:45:14.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 18:00:14.018] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 18:15:15.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 18:30:15.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 18:45:15.016] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 19:00:15.016] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 19:15:15.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 19:30:15.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 19:45:15.018] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 20:00:16.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 20:15:16.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 20:30:16.016] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 20:45:16.016] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 21:00:16.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 21:15:16.018] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 21:30:17.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 21:45:17.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 22:00:17.016] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 22:15:05.161] [1506520] (region_latency_tester.cpp:72): Sending 5 latency test pings to region newark
+[2025-05-06 22:15:05.161] [1506520] (region_latency_tester.cpp:72): Sending 5 latency test pings to region us-east
+[2025-05-06 22:15:05.161] [1506520] (region_latency_tester.cpp:72): Sending 5 latency test pings to region us-central
+[2025-05-06 22:15:05.161] [1506520] (region_latency_tester.cpp:72): Sending 5 latency test pings to region atlanta
+[2025-05-06 22:15:05.161] [1506520] (region_latency_tester.cpp:72): Sending 5 latency test pings to region us-south
+[2025-05-06 22:15:05.233] [1506520] (region_latency_tester.cpp:287): Average RTT for region newark is 27.5
+[2025-05-06 22:15:05.233] [1506520] (region_latency_tester.cpp:287): Average RTT for region us-east is 30
+[2025-05-06 22:15:05.233] [1506520] (region_latency_tester.cpp:287): Average RTT for region us-central is 34.5
+[2025-05-06 22:15:05.233] [1506520] (region_latency_tester.cpp:287): Average RTT for region atlanta is 51
+[2025-05-06 22:15:05.233] [1506520] (region_latency_tester.cpp:287): Average RTT for region us-south is 68.5
+[2025-05-06 22:15:17.016] [8373] (instrumented_task.cpp:52): polling 2 metrics
+[2025-05-06 22:30:18.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 22:45:18.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 23:00:18.016] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 23:15:18.016] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 23:30:18.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-06 23:45:18.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 00:00:18.018] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 00:15:19.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 00:30:19.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 00:45:19.016] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 01:00:19.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 01:15:19.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 01:30:19.018] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 01:45:20.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 02:00:20.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 02:15:20.016] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 02:30:20.016] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 02:45:20.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 03:00:20.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 03:15:20.018] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 03:30:21.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 03:45:21.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 04:00:21.016] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 04:15:05.173] [1687814] (region_latency_tester.cpp:72): Sending 5 latency test pings to region newark
+[2025-05-07 04:15:05.173] [1687814] (region_latency_tester.cpp:72): Sending 5 latency test pings to region us-east
+[2025-05-07 04:15:05.173] [1687814] (region_latency_tester.cpp:72): Sending 5 latency test pings to region us-central
+[2025-05-07 04:15:05.173] [1687814] (region_latency_tester.cpp:72): Sending 5 latency test pings to region atlanta
+[2025-05-07 04:15:05.173] [1687814] (region_latency_tester.cpp:72): Sending 5 latency test pings to region us-south
+[2025-05-07 04:15:05.244] [1687814] (region_latency_tester.cpp:287): Average RTT for region newark is 27.25
+[2025-05-07 04:15:05.245] [1687814] (region_latency_tester.cpp:287): Average RTT for region us-east is 30.25
+[2025-05-07 04:15:05.245] [1687814] (region_latency_tester.cpp:287): Average RTT for region us-central is 37
+[2025-05-07 04:15:05.245] [1687814] (region_latency_tester.cpp:287): Average RTT for region atlanta is 50.75
+[2025-05-07 04:15:05.245] [1687814] (region_latency_tester.cpp:287): Average RTT for region us-south is 68
+[2025-05-07 04:15:21.016] [8373] (instrumented_task.cpp:52): polling 2 metrics
+[2025-05-07 04:30:22.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 04:45:22.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 05:00:22.016] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 05:15:22.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 05:30:22.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 05:45:23.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 06:00:23.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 06:15:23.016] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 06:30:23.016] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 06:45:23.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 07:00:23.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 07:15:23.018] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 07:30:24.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 07:45:24.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 08:00:24.016] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 08:15:24.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 08:30:24.018] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 08:45:25.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 09:00:25.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 09:15:25.016] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 09:30:25.016] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 09:45:25.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 10:00:25.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 10:15:06.154] [1865462] (region_latency_tester.cpp:72): Sending 5 latency test pings to region newark
+[2025-05-07 10:15:06.154] [1865462] (region_latency_tester.cpp:72): Sending 5 latency test pings to region us-east
+[2025-05-07 10:15:06.154] [1865462] (region_latency_tester.cpp:72): Sending 5 latency test pings to region us-central
+[2025-05-07 10:15:06.154] [1865462] (region_latency_tester.cpp:72): Sending 5 latency test pings to region atlanta
+[2025-05-07 10:15:06.154] [1865462] (region_latency_tester.cpp:72): Sending 5 latency test pings to region us-south
+[2025-05-07 10:15:06.224] [1865462] (region_latency_tester.cpp:287): Average RTT for region newark is 33.25
+[2025-05-07 10:15:06.224] [1865462] (region_latency_tester.cpp:287): Average RTT for region us-east is 37.25
+[2025-05-07 10:15:06.224] [1865462] (region_latency_tester.cpp:287): Average RTT for region us-central is 35
+[2025-05-07 10:15:06.224] [1865462] (region_latency_tester.cpp:287): Average RTT for region atlanta is 49.25
+[2025-05-07 10:15:06.224] [1865462] (region_latency_tester.cpp:287): Average RTT for region us-south is 66
+[2025-05-07 10:15:25.018] [8373] (instrumented_task.cpp:52): polling 2 metrics
+[2025-05-07 10:30:26.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 10:45:26.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 11:00:26.016] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 11:15:26.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 11:30:26.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 11:45:26.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 12:00:27.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 12:15:27.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 12:30:27.016] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 12:45:27.016] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 13:00:27.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 13:15:27.017] [8373] (instrumented_task.cpp:52): polling 1 metrics
+[2025-05-07 13:30:28.015] [8373] (instrumented_task.cpp:52): polling 1 metrics
